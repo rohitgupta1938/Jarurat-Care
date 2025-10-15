@@ -50,6 +50,8 @@ A modern, responsive React application for managing patient records efficiently.
 ## 📂 Project Structure
  ```
  src/
+ ├─App/
+ │ ├─store.js
  │
  ├─ components/
  │ ├─ Header.jsx
