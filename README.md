@@ -66,4 +66,4 @@ A modern, responsive React application for managing patient records efficiently.
  │ └─ Patients.jsx
  │
  ├─ App.jsx
- └─ index.js
+ └─ main.jsx
